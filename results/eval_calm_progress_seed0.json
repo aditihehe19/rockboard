@@ -1,0 +1,11 @@
+{
+  "model": "calm_progress_seed0",
+  "episodes": 50,
+  "mean_score": 259.0,
+  "std_score": 27.2,
+  "min_score": 111.3,
+  "mean_frames": 341.2,
+  "landed": 49,
+  "crashed": 0,
+  "timed_out": 1
+}

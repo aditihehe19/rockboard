@@ -1,0 +1,11 @@
+{
+  "model": "hover_bonus_seed1",
+  "episodes": 50,
+  "mean_score": -49.3,
+  "std_score": 32.2,
+  "min_score": -106.0,
+  "mean_frames": 1000.0,
+  "landed": 0,
+  "crashed": 0,
+  "timed_out": 50
+}

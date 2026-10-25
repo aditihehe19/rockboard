@@ -1,0 +1,11 @@
+{
+  "model": "builtin_seed0",
+  "episodes": 50,
+  "mean_score": 261.9,
+  "std_score": 23.8,
+  "min_score": 166.3,
+  "mean_frames": 324.0,
+  "landed": 49,
+  "crashed": 0,
+  "timed_out": 1
+}

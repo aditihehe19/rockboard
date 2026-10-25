@@ -1,0 +1,5 @@
+{
+  "run": "calm_progress_seed1",
+  "steps": 1000000,
+  "minutes": 10.9
+}

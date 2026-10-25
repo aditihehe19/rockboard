@@ -1,0 +1,11 @@
+{
+  "model": "time_fee_seed1",
+  "episodes": 50,
+  "mean_score": 267.4,
+  "std_score": 18.6,
+  "min_score": 222.7,
+  "mean_frames": 296.7,
+  "landed": 50,
+  "crashed": 0,
+  "timed_out": 0
+}

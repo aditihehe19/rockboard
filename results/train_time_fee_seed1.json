@@ -1,0 +1,5 @@
+{
+  "run": "time_fee_seed1",
+  "steps": 1000000,
+  "minutes": 10.8
+}
